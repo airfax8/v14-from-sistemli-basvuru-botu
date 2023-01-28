@@ -1,0 +1,22 @@
+{
+  "name": "airfax",
+  "version": "4.0.0",
+  "description": "AirCod Team v14 Başvuru Sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "airfax",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
