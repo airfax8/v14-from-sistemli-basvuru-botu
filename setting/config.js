@@ -1,5 +1,5 @@
 module.exports = {
-    token: "MTAyNTY2NjkzODA2NTY1MzgyMQ.Gr_vYX.jp_kQrQ2pYg0lQQCc37sYV_RuaKrdNBvjg6s9s", 
+    token: "", 
     prefix: "!",
     Footer: "AirCod Team",
     guildID: "1054006695455621200",
