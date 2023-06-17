@@ -12,7 +12,7 @@ module.exports = {
     soru4: "Daha önce başka sunucuda yetkili oldun mu?",
     cevap4: "5 sunucuda yetkili oldum",
 
-    soru5: "Neden AirCod?",
+    soru5: "Neden Tc İllegallik?",
     cevap5: "Samimi Olduğu için"
 
 }
